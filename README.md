@@ -17,7 +17,7 @@ Meu principal projeto é o [`Sector Seven`](https://github.com/MarceloLuisDantas
 <br>
 <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="imgs/asm.png" height="28">   
+    <img src="imgs/asm.png" height="28">  
     <img src="imgs/vazio.png" height="10">   
     <img src="imgs/C_Logo.png" height="30">
     <img src="imgs/vazio.png" height="10">   
