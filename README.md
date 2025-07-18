@@ -1,13 +1,11 @@
 # 🐪 Marcelo Luis de Macedo Dantas
-Sou Marcelo, estudante de Computação na UFCG.
+Me chamo Marcelo, estudante de Ciência da Computação na UFCG.
 
-Gosto de programar em C e criar ferramentas para me ajudar a programar com C.
+Gosto de programar em C, e usar Python para criar ferramentas para me ajudar a programar em C.
 
 Meus interesses se voltam a `Compiladores`, `Game Dev`, `Low Level` e `Desenvolvimento de Sistemas`. 
 
-Meu principal projeto é o [`Sector Seven`](https://github.com/MarceloLuisDantas/Sector-Seven), um sistema de build e testes para projetos em C, feitas para ser simples, e que tudo que seja possivel ser feito esteja contido no README. 
-
-## Stats
+Meu principal projeto é o [`Sector Seven`](https://github.com/MarceloLuisDantas/Sector-Seven), um *build system* e *test tool* para projetos em C, projetada para ser simples, facil de aprender e usar, e que tudo que seja possivel ser feito esteja contido no README. 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
