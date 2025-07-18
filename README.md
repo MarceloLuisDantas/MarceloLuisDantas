@@ -14,7 +14,7 @@ Meu principal projeto é o [`Sector Seven`](https://github.com/MarceloLuisDantas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLuisDantas&layout=compact&theme=github_dark&hide_border=true" />
 </a>
 
-<br>
+<!-- <br>
 <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="imgs/asm.png" height="28">  
@@ -26,4 +26,4 @@ Meu principal projeto é o [`Sector Seven`](https://github.com/MarceloLuisDantas
     <img src="imgs/Nim-logo.png" height="25">
     <img src="imgs/vazio.png" height="10">   
     <img src="imgs/zig.png" height="30">
-</div>
+</div> -->
