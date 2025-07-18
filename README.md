@@ -18,12 +18,12 @@ Meu principal projeto é o [`Sector Seven`](https://github.com/MarceloLuisDantas
 <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="imgs/asm.png" height="28">   
-    <img src="imgs/vazio.png" height="1">   
+    <img src="imgs/vazio.png" height="10">   
     <img src="imgs/C_Logo.png" height="30">
-    <img src="imgs/vazio.png" height="1">   
+    <img src="imgs/vazio.png" height="10">   
     <img src="imgs/Go_Logo_Blue.svg.png" height="23">
-    <img src="imgs/vazio.png" height="1">   
+    <img src="imgs/vazio.png" height="10">   
     <img src="imgs/Nim-logo.png" height="25">
-    <img src="imgs/vazio.png" height="1">   
+    <img src="imgs/vazio.png" height="10">   
     <img src="imgs/zig.png" height="30">
 </div>
