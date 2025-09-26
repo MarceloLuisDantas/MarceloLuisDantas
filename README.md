@@ -1,3 +1,5 @@
+Para uma visão melhor do meu github, acesso o meu Github.io: [Chapelaria](https://marceloluisdantas.github.io/chapelaria.github.io/)
+
 # 🐪 Marcelo Luis de Macedo Dantas
 Me chamo Marcelo, estudante de Ciência da Computação na UFCG.
 
@@ -6,8 +8,6 @@ Gosto de programar em C, e usar Python para criar ferramentas para me ajudar a p
 Meus interesses se voltam a `Game Dev`, `Low Level`, `Desenvolvimento de Sistemas` e principalmente `Compiladores`. 
 
 Meu principal projeto é o [`Sector Seven`](https://github.com/MarceloLuisDantas/Sector-Seven), um *build system* e *test tool* para projetos em C, projetada para ser simples, facil de aprender e usar, e que tudo que seja possivel ser feito esteja contido no README. 
-
-Para uma visão melhor do meu github, acesso o meu Github.io: [Chapelaria](https://marceloluisdantas.github.io/chapelaria.github.io/)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
