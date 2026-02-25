@@ -13,4 +13,4 @@ Meu principal projeto é o [`Sector Seven`](https://github.com/MarceloLuisDantas
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloLuisDantas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/MarceloLuisDantas/github-readme-stats)
