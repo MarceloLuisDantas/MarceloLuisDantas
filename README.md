@@ -10,5 +10,3 @@ Meus interesses se voltam a `Game Dev`, `Low Level`, `Desenvolvimento de Sistema
 Sou escritor do blog [`Chapelaria Infdev`](https://marceloluisdantas.github.io/), onde eu posto sobre meus temas de interesse.
 
 Meu principal projeto é o [`Sector Seven`](https://github.com/MarceloLuisDantas/Sector-Seven), um *build system* e *test tool* para projetos em C, projetada para ser simples, facil de aprender e usar, e que tudo que seja possivel ser feito esteja contido no README. 
-
-![ ](https://raw.githubusercontent.com/MarceloLuisDantas/github-stats-transparent/refs/heads/output/generated/languages.svg)
